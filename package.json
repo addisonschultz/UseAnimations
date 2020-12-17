@@ -9,11 +9,14 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"id": "6c491332-f0b5-46db-96b2-d4a5810e2704"
+		"id": "6c491332-f0b5-46db-96b2-d4a5810e2704",
+		"displayName": "useAnimations"
 	},
 	"author": "Addison Schultz",
 	"dependencies": {
 		"@framer/framer.default": "^1.97.0",
 		"react-useanimations": "^2.0.6"
-	}
+	},
+	"name": "@framer/addison.useanimations",
+	"version": "1.0.0"
 }

@@ -5,145 +5,7 @@
       {
         "__class" : "PageNode",
         "children" : [
-          {
-            "__class" : "FrameNode",
-            "aspectRatio" : null,
-            "bottom" : null,
-            "centerAnchorX" : 0,
-            "centerAnchorY" : 0,
-            "children" : [
-              {
-                "__class" : "CodeComponentNode",
-                "$control__autoplay" : {
-                  "type" : "boolean",
-                  "value" : false
-                },
-                "$control__iconName" : {
-                  "type" : "enum",
-                  "value" : "activity"
-                },
-                "$control__loop" : {
-                  "type" : "boolean",
-                  "value" : false
-                },
-                "$control__onClick" : {
-                  "type" : "eventhandler"
-                },
-                "$control__reverse" : {
-                  "type" : "boolean",
-                  "value" : false
-                },
-                "$control__speed" : {
-                  "type" : "number",
-                  "value" : 1
-                },
-                "$control__strokeColor" : {
-                  "type" : "color",
-                  "value" : "#000000"
-                },
-                "aspectRatio" : null,
-                "bottom" : null,
-                "centerAnchorX" : 0.5013333333333333,
-                "centerAnchorY" : 0.13669950738916256,
-                "clip" : true,
-                "codeComponentIdentifier" : ".\/UseAnimations.tsx_Icon",
-                "codeComponentPackageVersion" : "1.97.0",
-                "codeOverrideEnabled" : false,
-                "constraintsLocked" : false,
-                "duplicatedFrom" : [
-                  "g4Rd59w46"
-                ],
-                "exportOptions" : [
 
-                ],
-                "fillColor" : "rgba(255,255,255,1)",
-                "fillEnabled" : false,
-                "fillImage" : null,
-                "fillImageOriginalName" : null,
-                "fillImagePixelHeight" : null,
-                "fillImagePixelWidth" : null,
-                "fillImageResize" : "fill",
-                "fillType" : "color",
-                "height" : 32,
-                "heightType" : 0,
-                "id" : "O3kfHy0iI",
-                "intrinsicHeight" : 32,
-                "intrinsicWidth" : 32,
-                "left" : null,
-                "locked" : false,
-                "name" : null,
-                "opacity" : 1,
-                "originalid" : null,
-                "parentid" : "wxdsMZq1X",
-                "previewSettings" : null,
-                "radius" : 0,
-                "radiusBottomLeft" : 0,
-                "radiusBottomRight" : 0,
-                "radiusIsRelative" : false,
-                "radiusPerCorner" : false,
-                "radiusTopLeft" : 0,
-                "radiusTopRight" : 0,
-                "right" : null,
-                "rotation" : 0,
-                "top" : 95,
-                "visible" : true,
-                "width" : 32,
-                "widthType" : 0
-              }
-            ],
-            "clip" : true,
-            "codeOverrideEnabled" : false,
-            "constraintsLocked" : false,
-            "duplicatedFrom" : null,
-            "exportOptions" : [
-
-            ],
-            "fillColor" : "rgba(255,255,255,1)",
-            "fillEnabled" : true,
-            "fillImage" : null,
-            "fillImageOriginalName" : null,
-            "fillImagePixelHeight" : null,
-            "fillImagePixelWidth" : null,
-            "fillImageResize" : "fill",
-            "fillType" : "color",
-            "framePreset" : "iPhone_375_812_mini",
-            "guidesX" : [
-
-            ],
-            "guidesY" : [
-
-            ],
-            "height" : 812,
-            "heightType" : 0,
-            "id" : "wxdsMZq1X",
-            "intrinsicHeight" : null,
-            "intrinsicWidth" : null,
-            "isExternalMaster" : null,
-            "isMaster" : false,
-            "isScreen" : true,
-            "isTarget" : false,
-            "left" : 891,
-            "locked" : false,
-            "name" : null,
-            "opacity" : 1,
-            "originalid" : null,
-            "parentid" : "Gaf1laFOb",
-            "previewSettings" : null,
-            "radius" : 0,
-            "radiusBottomLeft" : 0,
-            "radiusBottomRight" : 0,
-            "radiusIsRelative" : false,
-            "radiusPerCorner" : false,
-            "radiusTopLeft" : 0,
-            "radiusTopRight" : 0,
-            "replicaInfo" : null,
-            "right" : null,
-            "rotation" : 0,
-            "top" : 503,
-            "visible" : true,
-            "width" : 375,
-            "widthType" : 0
-          }
         ],
         "duplicatedFrom" : null,
         "guidesX" : [
@@ -152,7 +14,7 @@
         "guidesY" : [
 
         ],
-        "homeNodeId" : "wxdsMZq1X",
+        "homeNodeId" : null,
         "id" : "Gaf1laFOb",
         "name" : "Page 1",
         "originalid" : null,
