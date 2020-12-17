@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@framer/framer.default@^1.97.0":
+  version "1.97.0"
+  resolved "https://registry.framer.com/@framer/framer.default/-/@framer/framer.default-1.97.0.tgz#3bb66255b6ff8f8b2c928eb8dc56279c4c315c08"
+  integrity sha512-jsJ7aXHDntDhPjBVPMP4mL3R3Pm5KkTM84J8jllQIV8jiO5dLavqyt3hLjzcYyyhD1JmC9F95EDdacZZ4fNDaA==
+
 "@types/prop-types@*":
   version "15.7.0"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.0.tgz#4c48fed958d6dcf9487195a0ef6456d5f6e0163a"
